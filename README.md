@@ -1,11 +1,14 @@
-<h1 align="center">Hi there, I'm Mai Sơn Việt! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px"></h1>
-
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVwbjBwY3IyMWk1eDRsOG5qbWM3cmdkN3dvNTE0b2d4YzZlNXlkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fx8HHVnj3Zpo1lbCkS/giphy.gif" width="150" alt="Hello GIF" />
+  
+  <h1>Hi there, I'm Mai Sơn Việt!</h1>
+  
   <a href="https://github.com/VietIT2006">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;Software+Engineering+Student+%40PTIT+HCMC;Building+Microservices,+Mobile+%26+SaaS+Apps" alt="Typing SVG" />
   </a>
 </div>
 
+---
 ---
 
 ### 👨‍💻 Về bản thân mình
@@ -63,8 +66,8 @@ Mình là một Software Engineering sinh năm 2006, đam mê xây dựng các h
 ### 📊 Thống kê GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VietIT2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietIT2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VietIT2006&theme=tokyonight" alt="Summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VietIT2006&theme=tokyonight" alt="Stats" width="48%" />
 </div>
 
 <br>
@@ -74,6 +77,7 @@ Mình là một Software Engineering sinh năm 2006, đam mê xây dựng các h
 </div>
 
 ---
+
 
 ### 🐍 Hành trình đóng góp
 
